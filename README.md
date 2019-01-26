@@ -1,6 +1,9 @@
-## XBee
+## 遙控車
+使用PIC18F4520作為microcontroller，並利用XBee作為無線模組，搭配一些sensor，做出一台遙控車  
+完整報告請看[System Document.pdf](https://github.com/shaojason999/MCU_final_project/blob/master/System%20Document.pdf)
 
-### 參考資料
+## 參考資料
+XBee
 1. [XBee Module](http://www.electronicwings.com/sensors-modules/xbee-module)
 2. [XBee interface with PIC18F4550](https://www.electronicwings.com/pic/xbee-interface-with-pic18f4550-)
 3. [XBee模組通訊實驗(一)~(五)](https://swf.com.tw/?s=XBee%E6%A8%A1%E7%B5%84&submit=Search)
